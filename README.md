@@ -194,8 +194,4 @@ Flag obtained 🎉
 
 ---
 
-🔥 Machine owned!
-
----
-
-Would you like me to **keep the root flag redacted** (like in most public writeups), or include the actual flag string you captured for `root.txt`?
+🔥 Machine owned 
